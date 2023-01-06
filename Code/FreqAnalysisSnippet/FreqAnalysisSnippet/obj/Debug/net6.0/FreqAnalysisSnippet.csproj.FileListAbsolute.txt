@@ -1,0 +1,15 @@
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\bin\Debug\net6.0\FreqAnalysisSnippet.exe
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\bin\Debug\net6.0\FreqAnalysisSnippet.deps.json
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\bin\Debug\net6.0\FreqAnalysisSnippet.runtimeconfig.json
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\bin\Debug\net6.0\FreqAnalysisSnippet.dll
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\bin\Debug\net6.0\FreqAnalysisSnippet.pdb
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\obj\Debug\net6.0\FreqAnalysisSnippet.csproj.AssemblyReference.cache
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\obj\Debug\net6.0\FreqAnalysisSnippet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\obj\Debug\net6.0\FreqAnalysisSnippet.AssemblyInfoInputs.cache
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\obj\Debug\net6.0\FreqAnalysisSnippet.AssemblyInfo.cs
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\obj\Debug\net6.0\FreqAnalysisSnippet.csproj.CoreCompileInputs.cache
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\obj\Debug\net6.0\FreqAnalysisSnippet.dll
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\obj\Debug\net6.0\refint\FreqAnalysisSnippet.dll
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\obj\Debug\net6.0\FreqAnalysisSnippet.pdb
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\obj\Debug\net6.0\FreqAnalysisSnippet.genruntimeconfig.cache
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\FreqAnalysisSnippet\FreqAnalysisSnippet\obj\Debug\net6.0\ref\FreqAnalysisSnippet.dll

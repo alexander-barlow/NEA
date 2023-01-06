@@ -1,0 +1,15 @@
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\bin\Debug\net6.0\InputProcessingClass.exe
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\bin\Debug\net6.0\InputProcessingClass.deps.json
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\bin\Debug\net6.0\InputProcessingClass.runtimeconfig.json
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\bin\Debug\net6.0\InputProcessingClass.dll
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\bin\Debug\net6.0\InputProcessingClass.pdb
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\obj\Debug\net6.0\InputProcessingClass.csproj.AssemblyReference.cache
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\obj\Debug\net6.0\InputProcessingClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\obj\Debug\net6.0\InputProcessingClass.AssemblyInfoInputs.cache
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\obj\Debug\net6.0\InputProcessingClass.AssemblyInfo.cs
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\obj\Debug\net6.0\InputProcessingClass.csproj.CoreCompileInputs.cache
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\obj\Debug\net6.0\InputProcessingClass.dll
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\obj\Debug\net6.0\refint\InputProcessingClass.dll
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\obj\Debug\net6.0\InputProcessingClass.pdb
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\obj\Debug\net6.0\InputProcessingClass.genruntimeconfig.cache
+C:\Users\ab137548\OneDrive - Hills Road Sixth Form College\NEA\Code\InputProcessingClass\InputProcessingClass\obj\Debug\net6.0\ref\InputProcessingClass.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InputProcessingClass/1.0.0": {
+        "runtime": {
+          "InputProcessingClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InputProcessingClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
